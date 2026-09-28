@@ -79,8 +79,8 @@ export async function peisarShiki(opts) {
             ],
           };
         }
-        return { recurse: true };
       }
+      return { recurse: true };
     },
   };
   return visitor;
