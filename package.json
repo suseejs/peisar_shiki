@@ -1,0 +1,27 @@
+{
+  "name": "@peisar/peisar_shiki",
+  "version": "0.1.0",
+  "description": "",
+  "module": "index.mjs",
+  "types": "index.d.mts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suseejs/peisar_shiki.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/suseejs/peisar_shiki/issues"
+  },
+  "homepage": "https://github.com/suseejs/peisar_shiki#readme",
+  "devDependencies": {
+    "@peisar/peisar_types": "^0.1.2",
+    "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "shiki": "^4.4.3"
+  }
+}
